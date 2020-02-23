@@ -1,0 +1,16 @@
+############################# About ###################################
+about:
+  enable : true
+  title : Обо мне
+  about_item :
+  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+    title : Веб-Дизайн
+    content : Создаю сайты с удобным  интерфейсом. Рукописные иллюстрации,  инфографика.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : Бизнес-задачи
+    content : Сделаю сайт с продуманной структурой и современным дизайном. Подбираю оптимальный комплекс.
+
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Веб-разработка
+    content : Применяю адаптивную верстку, установлю сайт на CMS, реализуют весь функционал.

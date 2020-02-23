@@ -1,0 +1,31 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Написать Мне
+  subtitle : Выберете удобный  способ связи
+  content : Заполнете форму и я с Вами свяжусь или воспользуйтесь одним из месенжеров, просто наберите по телефону.
+  icon : ti-close 
+  bg_image_mail : "images/email.svg"
+
+  contact_details :  
+    - info : "телефон 8-(925)-339-49-31"
+      link : "tel:8-(925)-339-49-31"
+      image : images/contact/phone.svg
+
+    - info : "website@сайткомп.рф"
+      link : "mailto:website@сайткомп.рф"
+      image : images/contact/mail.svg
+
+    - info : "ватсап 8-(925)-339-49-31"
+      link : ""
+      image : images/contact/wathapp.svg
+
+
+    - info : "телеграмм"
+      link : "https://tlgg.ru/@SaytKomp"
+      image : images/contact/telegram.svg
+
+
+    
+  
+     

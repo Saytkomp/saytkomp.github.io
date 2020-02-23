@@ -1,0 +1,49 @@
+User-agent: *
+Disallow: /.cache/
+Disallow: /plugins/
+Disallow: /mail.php
+Disallow: /404.html
+Disallow: /css/
+Disallow: /js/
+Disallow: */?s=
+Disallow: *sort=
+Disallow: *view=
+Disallow: *utm=
+Crawl-Delay: 5
+
+User-agent: GoogleBot
+Disallow: /.cache/
+Disallow: /plugins/
+Disallow: /mail.php
+Disallow: /404.html
+Disallow: /russian/
+Disallow: /english/
+Disallow: /categories/
+Disallow: */?s=
+Disallow: *sort=
+Disallow: *view=
+Disallow: *utm=
+Allow: /css/*.css
+Allow: /js/*.js
+Allow: /images/
+
+
+User-agent: Yandex
+Disallow: /.cache/
+Disallow: /plugins/
+Disallow: /mail.php
+Disallow: /404.html
+Disallow: /russian/
+Disallow: /english/
+Disallow: /categories/
+Disallow: */?s=
+Disallow: *sort=
+Disallow: *view=
+Allow: /css/*.css
+Allow: /js/*.js
+Allow: /images/
+Clean-Param: utm_source&utm_medium&utm_campaign
+Crawl-Delay: 0.5
+
+Sitemap: https://сайткомп.рф/sitemap.xml
+Host: https://сайткомп.рф

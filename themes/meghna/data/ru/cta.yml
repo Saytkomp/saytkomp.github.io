@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Отличный дизайн и невероятные возможности"
+  content : "Ищете где заказать сайт-визитку, лендинг или магазин с нуля? Нужна помощь в настройке контекстной рекламы, SEO-оптимизации и в других вопросах, не менее важных для работы сайта? Обращайтесь ко мне!"
+  button:
+    enable : true
+    label : "Написать мне"
+    link : "#contact"

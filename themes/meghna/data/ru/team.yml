@@ -1,0 +1,36 @@
+############################### team ############################
+team:
+  enable : true
+  title : Стоимость зависит
+  team_member :
+    # team member loop
+    - name : Сложность проекта сайта
+      image_webp : 
+      image : images/team/5.svg
+      content : Реализовать одностраничник намного проще, чем портал или интернет-магазин.
+      icon : ti-layers-alt
+      
+        
+    # team member loop
+    - name : Планируемый функционал
+      image_webp : 
+      image : images/team/2.svg
+      content : Например, корзины, личного кабинета и так далее.
+      icon : ti-settings
+     
+        
+    # team member loop
+    - name : Адаптивный дизайн и верстка
+      image_webp : 
+      image : images/team/3.svg
+      content : При переработке ресурсов они нужны в обязательном порядке.
+      icon : ti-layout
+     
+        
+    # team member loop
+    - name : Сервисы для интеграции
+      image_webp : 
+      image : images/team/4.svg
+      content : Онлайн-касс, CRM, службы доставки и лояльности и так далее.
+      icon : ti-harddrives
+      

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://saytkomp.github.io/russian/blog/blog-post-1/</loc>
+    <lastmod>2020-02-15T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saytkomp.github.io/russian/</loc>
+    <lastmod>2020-02-15T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saytkomp.github.io/</loc>
+    <lastmod>2020-02-15T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saytkomp.github.io/russian/blog/installation/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saytkomp.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saytkomp.github.io/tags/</loc>
+  </url>
+  
+</urlset>

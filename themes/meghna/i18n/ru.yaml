@@ -1,0 +1,18 @@
+- id: blogTitle
+  translation: Мои Заметки
+- id: readMore
+  translation: Читать
+- id: viewAllPost
+  translation: Voir tous les articles
+- id: share
+  translation: Partager
+- id: aboutAuthor
+  translation: À propos de l'auteur
+- id: authorsPosts
+  translation: Articles de l'auteur
+- id: submit
+  translation: Отправить
+- id: all
+  translation: Все
+- id: copyright
+  translation: Создание сайтов на заказ &copy; 2020 

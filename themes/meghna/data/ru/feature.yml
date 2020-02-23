@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/alex.jpg
+  image_webp : images/about/alex.webp
+  title : "В основе качественного сайта:"
+  content : "Даже если вы продаете товары только в Instagram и получаете хорошую прибыль, помните – страничку можно потерять за пару минут. Поэтому сайт – более надежный инструмент для сохранности ваших трудов."
+  feature_item : 
+      # feature item loop
+    - title : SEO-оптимизация
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Работы по оптимизации и улучшению кода сайта, скорости загрузки, качества контента и удобства навигации по ресурсу
+      
+      # feature item loop
+    - title : Уникальный дизайн
+      icon : ti-paint-bucket # themify icon pack : https://themify.me/themify-icons
+      content : Разрабатываю уникальный стиль сайта на основе ваших пожеланий или брендбука, наборы элементов графики и типографики, гайдлайны
+
+      # feature item loop
+    - title : Продуманный UX
+      icon : ti-settings # themify icon pack : https://themify.me/themify-icons
+      content : Улучшаются поведенческие факторы, увеличивается время прибывания на сайте, глубина просмотра. Растет поисковый трафик и повышаются позиции в выдаче
+      
+      # feature item loop
+    - title : Экспертный контент
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Изучаю особенности вашего бизнеса и отрасли в целом, провожу юзабилити-аудит старого сайта и сайтов конкурентов, изучаю аналитику и статистику

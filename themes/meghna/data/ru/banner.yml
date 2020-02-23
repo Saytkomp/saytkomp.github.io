@@ -1,0 +1,13 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Разработка сайтов & магазинов"
+  content : "Услуги по разработке сайта под ключ с индивидуальным дизайном и каталогом продукции. Ищете где заказать сайт-визитку, лендинг или магазин с нуля ?"
+  icon :  ti-angle-double-down
+  button:
+    enable : true
+    label : "Услуги"
+    link : "#services"

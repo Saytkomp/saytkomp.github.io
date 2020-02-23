@@ -1,0 +1,58 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Мои работы
+  portfolio_item :
+    - name : Посмотреть
+      image : images/portfolio/ortfolio1-min.jpg
+      image_webp : images/portfolio/ortfolio1-min.webp
+      categories : ["Еда и ресторан"]
+      content :  Maki King Японская кухня...
+      link : "https://maki-king.ru/"
+
+
+
+    - name : Посмотреть
+      image : images/portfolio/ortfolio2-min.jpg
+      image_webp : images/portfolio/ortfolio2-min.webp
+      categories : ["Еда и ресторан"]
+      content :  Maki King Японская кухня...
+      link : "https://maki-king.ru/"
+
+
+    
+    - name : Посмотреть
+      image : images/portfolio/ortfolio3-min.jpg
+      image_webp : images/portfolio/ortfolio3-min.webp
+      categories : ["Промо-сайт"]
+      content : Velopitstop -велосервис
+      link : "https://velopitstop.ru/"
+
+
+    - name : Посмотреть
+      image : images/portfolio/ortfolio5-min.jpg
+      image_webp : images/portfolio/ortfolio5-min.webp
+      categories : ["Промо-сайт"]
+      content : Velopitstop -велосервис
+      link : "https://velopitstop.ru/"
+
+
+
+    - name : Посмотреть
+      image : images/portfolio/ortfolio4-min.jpg
+      image_webp : images/portfolio/ortfolio4-min.webp
+      categories : ["Промо-сайт"]
+      content : Имбирный пряник
+      link : "https://moy-pryanya.ru/"
+
+
+    - name : Посмотреть
+      image : images/portfolio/portfoliio-min.jpg
+      image_webp : images/portfolio/portfoliio-min.webp
+      categories : ["Интернет-магазин"]
+      content : Простой интернет магазин
+      link : "https://confeteria.ru/"
+      
+    
+      
+   

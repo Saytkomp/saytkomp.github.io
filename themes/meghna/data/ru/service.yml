@@ -1,0 +1,35 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Мои Услуги
+  service_item :
+    # service item loop
+    - name : Сайт-визитка
+      icon : ti-image # themify icon pack : https://themify.me/themify-icons
+      content : Адаптивный дизайн – сайт прекрасно выглядит на всех устройствах .Сайт, полностью готовый к поисковому продвижению .CMS – понятная пользователю система управления 
+      
+    # service item loop
+    - name : Интернет-магазин
+      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : Адаптивный дизайн – сайт прекрасно выглядит на всех устройствах. CMS – понятная пользователю система управления сайтом .Установка счетчиков метрики и аналитики, настройка целей
+    
+    # service item loop
+    - name : Сайт-каталог
+      icon : ti-layers-alt # themify icon pack : https://themify.me/themify-icons
+      content : Подключение сервисов оплаты картами, кошельками и автоматического расчета стоимости доставки. СMS – понятная пользователю система управления сайтом. Модули под Ваши задачи
+    
+    # service item loop
+    - name : Сайт-блог
+      icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
+      content : Бесплатная установка счетчиков метрики и аналитики, настройка целей. Индивидуальный подход к Вашей задаче .Недорогой сайт для бизнеса
+    
+    # service item loop
+    - name : SEO-оптимизация
+      icon : ti-reload # themify icon pack : https://themify.me/themify-icons
+      content : Сайт, полностью готовый к поисковому продвижению.Отображение сайта в поиске. Увеличение продаж и клиентов. Поднятие позиций в поисковиках
+       
+    # service item loop
+    - name : Разработка логотипов
+      icon : ti-pencil-alt # themify icon pack : https://themify.me/themify-icons
+      content : Качественный дизайн графики для сайта. Графика в фирменном стиле.Формирование целостного образа бренда
+      
